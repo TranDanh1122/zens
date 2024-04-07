@@ -45,12 +45,13 @@
   }
   .wrap-content {
     color: #646464;
-    background-color: #FCFCFC;
+
   }
   .main-content {
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: #FCFCFC;
     border-bottom: 1px solid #CCCCCC;
   }
   .wrap-button {
